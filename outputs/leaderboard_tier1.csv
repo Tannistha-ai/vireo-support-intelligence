@@ -1,0 +1,39 @@
+agent_id,name,team,site,shift,closed,repeat_rate,csat,csat_n,junk_notes,median_handle_hr,closed_per_week,rank_in_team_by_volume,rank_in_team_by_repeats(low=good),team_size
+A3033,Diya Singh,Billing,Bengaluru,Day,704,0.099,3.443,323,0.625,0.367,9.042,1,2,4
+A3034,Manpreet Mukherjee,Billing,Indore,Morning,314,0.067,3.536,138,0.022,0.383,4.033,2,1,4
+A3035,Mohammed Jadhav,Billing,Indore,Morning,279,0.125,3.339,112,0.039,0.367,3.583,3,4,4
+A3032,Diya Malhotra,Billing,Bengaluru,Morning,268,0.112,3.414,128,0.049,0.383,3.442,4,3,4
+A3011,Kavya Goyal,Chat Frontline,Bengaluru,Morning,313,0.083,3.541,157,0.716,0.367,4.02,1,6,15
+A3004,Aishwarya Shinde,Chat Frontline,Bengaluru,Morning,301,0.133,3.424,118,0.04,0.367,3.866,2,13,15
+A3012,Rahul Sen,Chat Frontline,Bengaluru,Morning,276,0.08,3.59,122,0.036,0.367,3.545,3,5,15
+A3006,Tenzin Saxena,Chat Frontline,Bengaluru,Morning,269,0.063,3.416,113,0.037,0.4,3.455,4,2,15
+A3003,Rohit Yadav,Chat Frontline,Indore,Night,225,0.12,3.366,101,0.027,0.4,2.89,5,11,15
+A3001,Shreya Kumar,Chat Frontline,Indore,Night,215,0.079,3.23,87,0.056,0.417,2.761,6,4,15
+A3002,Zoya Srivastava,Chat Frontline,Indore,Night,197,0.056,3.537,82,0.056,0.383,2.53,7,1,15
+A3010,Om Varghese,Chat Frontline,Indore,Day,189,0.085,3.56,84,0.698,0.35,2.428,8,7,15
+A3008,Manish Jain,Chat Frontline,Indore,Day,182,0.066,3.43,86,0.038,0.383,2.338,9,3,15
+A3007,Shreya Dhillon,Chat Frontline,Bengaluru,Day,177,0.107,3.486,72,0.017,0.333,2.273,10,10,15
+A3014,Manpreet Iyer,Chat Frontline,Bengaluru,Day,172,0.134,3.605,76,0.041,0.375,2.209,11,14,15
+A3005,Sameer Menon,Chat Frontline,Indore,Day,170,0.094,3.205,73,0.018,0.367,2.183,12,8,15
+A3013,Ayaan Dutta,Chat Frontline,Bengaluru,Day,165,0.121,3.467,75,0.055,0.367,2.119,13,12,15
+A3015,Faisal Pereira,Chat Frontline,Indore,Day,164,0.14,3.622,74,0.037,0.35,2.106,14,15,15
+A3009,Sameer Agarwal,Chat Frontline,Bengaluru,Day,159,0.101,3.436,78,0.057,0.4,2.042,15,9,15
+A3019,Kavya D'Souza,Email Frontline,Bengaluru,Day,385,0.091,3.59,166,0.031,0.35,4.945,1,1,7
+A3021,Pooja Dhillon,Email Frontline,Bengaluru,Day,355,0.104,3.518,164,0.079,0.4,4.56,2,3,7
+A3016,Ayaan Pawar,Email Frontline,Indore,Night,249,0.12,3.234,111,0.651,0.383,3.198,3,7,7
+A3017,Kabir Mathew,Email Frontline,Indore,Night,248,0.105,3.396,96,0.653,0.358,3.185,4,4,7
+A3022,Yash Mittal,Email Frontline,Bengaluru,Morning,190,0.116,3.404,89,0.047,0.367,2.44,5,5,7
+A3018,Sukhwinder Bose,Email Frontline,Bengaluru,Morning,185,0.103,3.412,80,0.032,0.383,2.376,6,2,7
+A3020,Ankit Ansari,Email Frontline,Bengaluru,Morning,176,0.119,3.209,86,0.045,0.392,2.261,7,6,7
+A3029,Geeta Rathore,Logistics,Indore,Day,472,0.144,3.119,218,0.036,24.408,6.062,1,3,5
+A3031,Aishwarya Agarwal,Logistics,Indore,Day,451,0.106,3.205,200,0.033,24.417,5.793,2,1,5
+A3028,Tarun Pereira,Logistics,Bengaluru,Morning,393,0.148,2.896,182,0.041,24.5,5.048,3,4,5
+A3027,Rajat Saxena,Logistics,Indore,Morning,383,0.167,2.983,175,0.039,24.417,4.919,4,5,5
+A3030,Gurpreet Kulkarni,Logistics,Bengaluru,Morning,350,0.111,2.994,156,0.034,24.4,4.495,5,2,5
+A3037,Vivaan Sethi,Returns Desk,Bengaluru,Day,502,0.129,3.217,212,0.044,24.483,6.448,1,3,3
+A3038,Pooja Patil,Returns Desk,Indore,Morning,374,0.115,3.03,165,0.032,24.475,4.804,2,1,3
+A3036,Saanvi Saxena,Returns Desk,Bengaluru,Morning,334,0.129,2.962,132,0.033,24.433,4.29,3,2,3
+A3026,Vihaan Dutta,Voice Frontline,Bengaluru,Day,212,0.085,3.556,99,0.028,0.358,2.723,1,1,4
+A3025,Riya Siddiqui,Voice Frontline,Bengaluru,Day,203,0.133,3.538,91,0.044,0.4,2.607,2,4,4
+A3023,Farah George,Voice Frontline,Indore,Day,184,0.092,3.357,84,0.049,0.392,2.363,3,2,4
+A3024,Mohammed Kaur,Voice Frontline,Indore,Day,162,0.099,3.75,68,0.049,0.333,2.081,4,3,4

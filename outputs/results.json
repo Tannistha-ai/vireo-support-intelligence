@@ -1,0 +1,31 @@
+{
+  "label_source": "LLM+rules cascade (outputs/labels.csv)",
+  "tickets": 11875,
+  "strict": {
+    "repeats": 1238,
+    "share_of_tickets": 0.1043,
+    "cost_18m_inr": 314540,
+    "cost_per_quarter_inr": 52423,
+    "per_qtr_at_flat_180": 37140,
+    "per_qtr_at_blended_290": 59837
+  },
+  "family": {
+    "repeats": 1476,
+    "share_of_tickets": 0.1243,
+    "cost_18m_inr": 384950,
+    "cost_per_quarter_inr": 64158,
+    "per_qtr_at_flat_180": 44280,
+    "per_qtr_at_blended_290": 71340
+  },
+  "any": {
+    "repeats": 3236,
+    "share_of_tickets": 0.2725,
+    "cost_18m_inr": 868880,
+    "cost_per_quarter_inr": 144813,
+    "per_qtr_at_flat_180": 97080,
+    "per_qtr_at_blended_290": 156407
+  },
+  "base_followed_rate": 0.1099,
+  "says_repeat_share": 0.1277,
+  "detected_given_says_repeat": 0.5244
+}

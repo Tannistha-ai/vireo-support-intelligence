@@ -1,0 +1,32 @@
+"""Issue taxonomy: fine label -> (family, plain-English description). ~24 labels.
+Fine labels drive repeat-contact matching; families drive the weekly digest."""
+TAXONOMY = {
+ "login_otp":           ("Account & Login",  "Cannot log in / OTP or login code not received / locked out"),
+ "double_charge":       ("Billing & Payments","Charged twice or duplicate payment for one order"),
+ "paid_no_order":       ("Billing & Payments","Money deducted / payment page failed but no order or account entry"),
+ "coupon_failed":       ("Billing & Payments","Coupon, promo code or advertised discount not applied"),
+ "invoice_issue":       ("Billing & Payments","Invoice not downloading / GST invoice request"),
+ "not_delivered":       ("Delivery & Shipping","Order not delivered, delayed, or lost in transit"),
+ "address_change":      ("Delivery & Shipping","Change or correct delivery address / wrong pincode"),
+ "damaged_in_transit":  ("Delivery & Shipping","Product arrived damaged"),
+ "refund_delay":        ("Returns & Refunds","Refund promised or expected but not received"),
+ "return_pickup":       ("Returns & Refunds","Return pickup not happened / needs rescheduling"),
+ "cancellation":        ("Returns & Refunds","Customer wants to cancel the order"),
+ "repair_status":       ("Warranty & Repair","Warranty claim or repair status update wanted"),
+ "not_charging":        ("Charging & Battery","Earbud or case will not charge"),
+ "battery_drain":       ("Charging & Battery","Battery drains fast / poor battery backup"),
+ "audio_distortion":    ("Audio Quality","Crackling, static, buzzing, hiss or distorted sound"),
+ "audio_one_side":      ("Audio Quality","No audio in one earbud or one side"),
+ "mic_problem":         ("Audio Quality","Microphone low, muffled or not working on calls"),
+ "pairing_failure":     ("Connectivity","Will not pair, not discoverable, or keeps disconnecting"),
+ "display_touch":       ("Hardware Fault","Screen or touch unresponsive"),
+ "strap_broken":        ("Hardware Fault","Watch or band strap broken or tearing"),
+ "app_crash":           ("App & Firmware","Vireo app crashes or will not open"),
+ "fw_update_stuck":     ("App & Firmware","Firmware update stuck, hung or failed"),
+ "compatibility_query": ("Product Enquiry","Pre-sale or compatibility question"),
+ "wrong_item":          ("Delivery & Shipping","Received the wrong product or variant"),
+ "device_dead":         ("Hardware Fault","Unit dead / will not power on / button does nothing"),
+ "wifi_setup":          ("Connectivity","Wi-Fi setup fails (speaker or watch)"),
+ "other_unclear":       ("Unclear","Cannot tell what the issue is"),
+}
+LABELS = list(TAXONOMY)
