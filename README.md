@@ -148,6 +148,13 @@ Before making any paid model calls, verify the installation and privacy-scrubbin
 
 ```bash
 python src/smoke_test.py
+```
+
+The smoke test makes no paid API calls. It should finish with an `OK` message and report `provider: mock`.
+
+---
+
+## Running the analysis
 
 ## Running the analysis
 
