@@ -142,6 +142,12 @@ Add your Gemini API key to `.env`.
 API credentials are not included in the repository.
 
 ---
+## Smoke test
+
+Before making any paid model calls, verify the installation and privacy-scrubbing path with the mock provider:
+
+```bash
+python src/smoke_test.py
 
 ## Running the analysis
 
